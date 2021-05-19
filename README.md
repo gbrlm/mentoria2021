@@ -21,25 +21,25 @@ Más información sobre la encuesta está disponible en https://violenciagenero.
 
 ## Hitos de la mentoría
 
-#### - Entrega 6/6 - Práctico de análisis y visualización. 
+#### :small_blue_diamond: Entrega 6/6 - Práctico de análisis y visualización. 
 Consistirá en ver una análisis estadístico de los datos, analizar el caso de valores faltantes y outliers, analizar las distribuciones de las variables y si existe correlación entre ellas.
 
-#### - Entrega 4/7 - Práctico de análisis exploratorio y curación de datos.
+#### :small_blue_diamond: Entrega 4/7 - Práctico de análisis exploratorio y curación de datos.
 Consistirá en un análisis más profundo del dataset. Analizar y decidir el tratamiento de outliers y valores atípicos. Ver codificación de las variables.
 
-#### - Entrega 4/7 - Video de presentación del proyecto y dataset.
+#### :small_blue_diamond: Entrega 4/7 - Video de presentación del proyecto y dataset.
 
-#### - Jornada 12/7 - Discusión sobre presentación de proyectos y datasets.
+#### :small_blue_diamond: Jornada 12/7 - Discusión sobre presentación de proyectos y datasets.
 
-#### - Entrega 15/8 - Práctico de introducción al aprendizaje automático.
+#### :small_blue_diamond: Entrega 15/8 - Práctico de introducción al aprendizaje automático.
 Consistirá en profundizar la aplicación de modelos de aprendizaje supervisado. Realizar ajustes de hiper parámetros y funciones de costo. Cálculo de métricas pertinentes. Analizar resultados.
 
-#### - Entrega 12/9 - Práctico aprendizaje supervisado.
+#### :small_blue_diamond: Entrega 12/9 - Práctico aprendizaje supervisado.
 Consistirá en implementar diferentes modelos de regresión de tal manera de ver si es posible determinar una frontera de decisión para la presencia de una conducta en función de otras, ver si existen conductas relacionadas a distintos tipos de violencias.
 
-#### - Entrega 2/10 - Práctico aprendizaje no supervisado.
+#### :small_blue_diamond: Entrega 2/10 - Práctico aprendizaje no supervisado.
 Consistirá en aplicar alguna técnica de reducción de dimensionalidad. Aplicar distintas técnicas de clustering y tratar de obtener algunas conclusiones sobre el significado de los resultados obtenidos. Determinar/conocer patrones emergentes en función de diferentes características incluidas en los análisis.
 
-#### - Entrega 22/10 - Video de presentación de mentoría.
+#### :small_blue_diamond: Entrega 22/10 - Video de presentación de mentoría.
 
-#### - Jornadas 12/11 y 13/11 - Presentación de mentorías.
+#### :small_blue_diamond: Jornadas 12/11 y 13/11 - Presentación de mentorías.
