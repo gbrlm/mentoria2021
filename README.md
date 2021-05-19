@@ -1,6 +1,6 @@
 # Repositorio de la mentoría "Análisis de datos sobre la violencia contra la mujer" de la Diplomatura en Ciencia de Datos, Aprendizaje Automático y sus aplicaciones - Año: 2021.
 ## Universidad Nacional de Córdoba
-#### Estudiantes: Tamara Maggioni, Ivana Feldfeber, Susana B. Araujo Furlan
+#### Estudiantes: Ivana Feldfeber, Susana Beatriz Araujo Furlan, Tamara Maggioni
 #### Mentor: Gabriel Moyano
 #### Repositorio:
 
